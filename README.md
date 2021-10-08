@@ -1,7 +1,7 @@
 ### E ai ! Eu sou o Italo da Silva 👋
 
 
-- 🔭 Hoje trabalho como dev full-stack jr
+- 🔭 Hoje trabalho como Programador jr
 - 🌱 Estudando ReactJs 
 - 😄 Bora codar !!
 
